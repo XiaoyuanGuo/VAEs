@@ -15,10 +15,13 @@ A collection of Variational Autoencoders, paper sources, code information
 #### AdaGVAE: the Adaptive Grouped Variational Autoencoder
 
 ###### 
-#### 
-###### 
-#### 
-###### 
+
+#### FactorVAE: Disentangling by Factorising
+###### [paper] https://arxiv.org/pdf/1802.05983.pdf 
+###### [code] https://github.com/1Konny/FactorVAE
+#### β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH ACONSTRAINED VARIATIONAL FRAMEWORK
+###### [paper] https://openreview.net/pdf?id=Sy2fzU9gl
+###### [code] https://github.com/1Konny/Beta-VAE
 #### 
 ###### 
 #### 
